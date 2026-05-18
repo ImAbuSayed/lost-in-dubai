@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Lost in Dubai
+
+This log tracks the cryptographic history and versioning for the song **Lost in Dubai** (lost-in-dubai).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-05-18T17:55:31.704540 | `v1` | `94c67994f9c10472cbd20fd412e19308a5ce53932c7acce1a06864e214053b61` | `902a1099cc3481393c50a556a2a9bf2ab44edffaae68efa76be52e7d1c66a27e` | `2026-05-18_lost-in-dubai-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*

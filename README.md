@@ -15,7 +15,7 @@
 | **Written On** | May 18, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/lost-in-dubai/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Official Music Licensing for Lost in Dubai](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/lost-in-dubai/) |
+| **Get License** | [Obtain a Music License for Lost in Dubai](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/lost-in-dubai/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `94c67994f9c10472cbd20fd412e19308a5ce53932c7acce1a06864e214053b61` |
 | **Timestamp** | May 18, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.
