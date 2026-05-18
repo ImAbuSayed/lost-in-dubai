@@ -15,7 +15,7 @@
 | **Written On** | May 18, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/lost-in-dubai/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Obtain a Music License for Lost in Dubai](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/lost-in-dubai/) |
+| **Get License** | [Official Music Licensing for Lost in Dubai](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/lost-in-dubai/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Akhiyan ch nasha tera, you're the one I need
+> Dil dhadke mera, living at a dangerous speed
+> Nede nede aa sohneya, don't you walk away
+> Tonight is the night, baby let the rhythm play
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
